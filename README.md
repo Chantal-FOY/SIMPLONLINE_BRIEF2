@@ -16,9 +16,6 @@
 
 #3) FLIPBOOK
 #cartePostale3.html
-#cartePostale3.css
-#bootStrap.css
-#bootStrap.min.css
 
 #4) JAVASCRIPT
 #cartePostale4.html
